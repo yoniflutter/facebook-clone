@@ -2,7 +2,7 @@
 
 > Get Started
 
-Follow these simple steps to experience the magic:
+Follow these simple steps:
 
 1. Clone the project
 ```bash
