@@ -1,6 +1,7 @@
 # Facebook Clone
 
 > Get Started
+
 Follow these simple steps to experience the magic:
 
 1. Clone the project
